@@ -1,7 +1,4 @@
-using Unit_Tests.DecouplingPatterns.ObjectMother;
-using Unit_Tests.DecouplingPatterns.ObjectMother.UsingObjectMother;
-
-namespace Unit_Tests;
+namespace Unit_Tests.DecouplingPatterns.ObjectMother.UsingObjectMother;
 
 [TestFixture]
 public class When_the_head_of_the_department_approves_an_expense_sheet_with_a_total_amount_that_is_higher_than_allowed2
